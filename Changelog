@@ -1,0 +1,23 @@
+v1.0b
+10/02/2007
+
+Added Vulnerability Checker.
+General tidy of code. 
+
+v1.0c
+
+Added Cambridge Silicon Radio Frontline sniffer
+
+v1.0d
+
+Added credits
+Little change to sniffing section
+
+v1.0e
+12/03/2008
+
+Updated Sorbo's Sniffing script
+Fixed bluebugger exploit
+Added Hardware check and service startup
+Added Openciphers BTpincrack
+Added Sniffer resync
